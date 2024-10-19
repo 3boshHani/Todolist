@@ -1,0 +1,4 @@
+C:\Users\Abdo\Desktop\Todolist.pdb
+C:\Users\Abdo\Desktop\sni.dll
+C:\Users\Abdo\Desktop\SQLite.Interop.dll
+C:\Users\Abdo\Desktop\Todolist.exe
